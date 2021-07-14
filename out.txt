@@ -1,0 +1,68 @@
+
+Given Text: 
+
+Given Text: 
+
+Given Text: 
+
+Given Text: 
+tacocaot
+Size  (letters/numbers): 8
+Not a palindrome 
+
+Given Text: 
+Able was I ere I saw Elba
+Size  (letters/numbers): 19
+Is a palindrome 
+
+Given Text: 
+A man, a plan, a canal â€“ Panama
+Size  (letters/numbers): 21
+Is a palindrome 
+
+Given Text: 
+Never odd or even
+Size  (letters/numbers): 14
+Is a palindrome 
+
+Given Text: 
+
+Given Text: 
+Sator Arepo Tenet Opera Rotas
+Size  (letters/numbers): 25
+Is a palindrome 
+
+Given Text: 
+Doc, note: I dissent. A fast never prevents a fatness. I diet on cod
+Size  (letters/numbers): 51
+Is a palindrome 
+
+Given Text: 
+T. Eliot, top bard, notes putrid tang emanating, is sad; I'd assign it a name: gnat dirt upset on drab pot toilet
+Size  (letters/numbers): 85
+Is a palindrome 
+
+Given Text: 
+19827072891
+Size  (letters/numbers): 11
+Is a palindrome 
+
+Given Text: 
+19,827,072,891
+Size  (letters/numbers): 11
+Is a palindrome 
+
+Given Text: 
+2569827037289652
+Size  (letters/numbers): 16
+Not a palindrome 
+
+Given Text: 
+2569827007289652
+Size  (letters/numbers): 16
+Is a palindrome 
+
+Given Text: 
+256$8&7007&8$652
+Size  (letters/numbers): 12
+Is a palindrome 
